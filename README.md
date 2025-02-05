@@ -12,6 +12,7 @@ This document outlines the troubleshooting steps taken to resolve the issue of b
 - Windows 10 OS
 - Printer drivers from HP website
 - Network diagnostic tools (ping, IP configuration)
+- Confluence
 
   ## Date started
   02/05/25
