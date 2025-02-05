@@ -18,7 +18,3 @@ This document outlines the troubleshooting steps taken to resolve the issue of b
 
   ## Current Status
   The printer is not connecting properly. Troubleshooting steps have been documented in the sections below.
-
-*Ref 1: Currently personal printer is not showing up as an option so cannot use printer on PC*
-
-![image](https://github.com/user-attachments/assets/be57c14f-68cb-4e0a-a87b-a73357aa8040)
