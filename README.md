@@ -18,3 +18,6 @@ This document outlines the troubleshooting steps taken to resolve the issue of b
 
   ## Current Status
   The printer is not connecting properly. Troubleshooting steps have been documented in the sections below.
+
+## More Information
+For a more detailed account of the troubleshooting process and additional notes, please visit my [Confluence Documentation]([https://your-confluence-url](https://0xshadowbyte.atlassian.net/wiki/spaces/~71202007ee9961a9be48d1b64d9b3603294980/pages/2752514/Printer+Connection+Troubleshooting)
