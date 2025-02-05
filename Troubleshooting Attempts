@@ -1,0 +1,31 @@
+## Step 2: Troubleshooting Attempts
+
+### 2.1. Check Printer Connection to Network
+- **Action**: Used the printer's control panel to check network connection.
+- **Outcome**: Printer confirmed to be connected to the network.
+- **Next Step**: Check the printer's IP address and test connectivity to the PC.
+
+### 2.2. Verify Printer’s IP Address
+- **Action**: Printed the printer’s network configuration page to find the IP address.
+- **IP Address:** [Printer's IP Address]
+- **Next Step**: Ping the printer's IP address from the PC.
+
+### 2.3. Ping Printer's IP Address
+- **Action**: Opened Command Prompt on the PC and ran `ping [printer IP address]`.
+- **Outcome**: The printer responded to the ping request.
+- **Next Step**: Reinstall the printer drivers on the PC.
+
+### 2.4. Reinstall Printer Drivers
+- **Action**: Uninstalled the current printer drivers and reinstalled the latest drivers from the printer manufacturer's website.
+- **Outcome**: The printer was successfully added again, but still unable to print.
+- **Next Step**: Check Windows Printer Settings.
+
+### 2.5. Check Printer Settings on Windows
+- **Action**: Went to Control Panel > Devices and Printers > Right-clicked on printer > Printer Properties.
+- **Outcome**: Printer status shows "Offline."
+- **Next Step**: Attempt to set the printer to "Online" in the settings.
+
+### 2.6. Set Printer to Online Status
+- **Action**: Checked the box that said "Use Printer Offline" to disable the offline setting.
+- **Outcome**: Printer status was changed to "Online," but still could not print.
+- **Next Step**: Restart both PC and printer.
