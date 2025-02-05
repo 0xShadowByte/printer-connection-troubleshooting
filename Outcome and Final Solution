@@ -1,0 +1,25 @@
+Step 3: Outcome and Final Solution
+
+3.1. Restart Both Printer and PC
+- **Action**: Restarted both the personal PC and the printer to refresh the network connection.
+- **Outcome**: Printer appeared as available and "Online" in the print queue, but the print job was still stuck.
+
+3.2. Final Solution
+- **Action**: Reset the printer's Wi-Fi connection and reconnected it to the network.
+- **Outcome**: The printer was successfully reconnected to the network, and I was able to print successfully from the PC.
+
+**Final Status**: Printer is now working properly.
+
+---
+
+*Next Steps (If Needed)
+- Monitor the printer connection for a few days to ensure it stays connected.
+- If the issue recurs, consider updating the printer's firmware or replacing the router.
+
+---
+
+**Conclusion**
+This troubleshooting process helped identify and resolve the printer connectivity issue by resetting the printer's network connection and reinstalling the necessary drivers.
+
+Date Resolved:
+2/5/25
