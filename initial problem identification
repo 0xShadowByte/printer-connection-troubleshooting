@@ -1,1 +1,13 @@
-notes.md 
+## Step 1: Identify the Issue
+
+### 1.1. Problem Description
+- Unable to print documents from my personal PC. Printer is powered on, connected to the same Wi-Fi network, but does not appear in the list of available printers on the PC.
+
+### 1.2. Error Messages
+- Error: "Printer is offline" when trying to print from Windows 10.
+
+### 1.3. Printer Model & Specs
+- Printer Model: HP OfficeJet 4650 All-in-one Printer
+- Connection Type: Wi-Fi, USB (if applicable)
+
+**Next Steps:** Confirm if the printer is detected by the PC and ensure it is set as the default printer. 
